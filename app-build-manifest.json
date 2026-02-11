@@ -1,0 +1,98 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/app/_not-found-77a6530beaf48779.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/413-f17de0f280adb7fd.js",
+      "static/css/f66506d6f6825406.css",
+      "static/chunks/app/layout-597e460947f4e5a8.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/413-f17de0f280adb7fd.js",
+      "static/chunks/app/about/page-873342ef60e7331f.js"
+    ],
+    "/blog/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/413-f17de0f280adb7fd.js",
+      "static/chunks/app/blog/page-c526510a010dda9a.js"
+    ],
+    "/blog-details/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/413-f17de0f280adb7fd.js",
+      "static/chunks/app/blog-details/page-f2fb589f4de66a64.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/app/contact/page-670719952b32771f.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/413-f17de0f280adb7fd.js",
+      "static/chunks/401-b1b8ea3a46a8fe97.js",
+      "static/chunks/app/page-fda17773fbd15880.js"
+    ],
+    "/signup/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/app/signup/page-821d1c7cad000fa9.js"
+    ],
+    "/blog-sidebar/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/413-f17de0f280adb7fd.js",
+      "static/chunks/app/blog-sidebar/page-e460031e1e594f01.js"
+    ],
+    "/signin/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/app/signin/page-8b33800f61affd4f.js"
+    ],
+    "/error/page": [
+      "static/chunks/webpack-88b2138ecfa5b67d.js",
+      "static/chunks/fd9d1056-16f14d1599bb12d9.js",
+      "static/chunks/472-4e2e57b95d647320.js",
+      "static/chunks/main-app-b48abc0bc5f2f055.js",
+      "static/chunks/326-a84953a5378f2f57.js",
+      "static/chunks/app/error/page-4606169c5fc474f8.js"
+    ]
+  }
+}
